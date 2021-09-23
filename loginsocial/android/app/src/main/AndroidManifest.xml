@@ -1,6 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vitorrisso.payflow
-">
+    package="com.vitorrisso.payflow">
    <application
         android:label="loginsocial"
         android:icon="@mipmap/ic_launcher">
